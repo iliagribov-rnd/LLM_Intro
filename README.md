@@ -24,7 +24,7 @@
 
 **Стек:** PyTorch, TRL, Datasets, HuggingFace
 
-### 3. lora_dora_qlora.ipynb
+### 3. lora_peft.ipynb
 **PEFT: Parameter-Efficient Fine-Tuning**
 
 - LoRA (Low-Rank Adaptation)
